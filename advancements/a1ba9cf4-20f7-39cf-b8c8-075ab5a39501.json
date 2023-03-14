@@ -1263,6 +1263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2023-03-09 17:14:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2023-03-03 15:43:38 +0000"
@@ -1696,6 +1702,7 @@
       "minecraft:forest": "2023-03-03 15:25:03 +0000",
       "minecraft:desert": "2023-02-17 20:44:10 +0000",
       "minecraft:ocean": "2023-03-09 08:59:09 +0000",
+      "minecraft:jungle": "2023-03-09 17:07:37 +0000",
       "minecraft:windswept_savanna": "2023-02-17 21:05:06 +0000",
       "minecraft:warm_ocean": "2023-02-17 20:51:23 +0000",
       "minecraft:deep_lukewarm_ocean": "2023-03-03 16:19:35 +0000",
@@ -1900,6 +1907,12 @@
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2023-02-17 21:30:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2023-03-09 17:14:13 +0000"
     },
     "done": true
   },
