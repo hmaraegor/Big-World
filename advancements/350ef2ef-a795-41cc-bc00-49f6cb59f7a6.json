@@ -895,6 +895,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2023-03-17 12:24:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2023-02-19 02:00:02 +0000"
@@ -2474,6 +2480,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2023-03-17 12:24:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2023-02-21 15:07:45 +0000"
@@ -2525,6 +2537,12 @@
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2023-02-20 12:52:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2023-03-17 12:24:46 +0000"
     },
     "done": true
   },
