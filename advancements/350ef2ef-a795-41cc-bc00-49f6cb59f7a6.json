@@ -1022,6 +1022,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_acacia_wood": {
+    "criteria": {
+      "has_log": "2023-03-20 22:04:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2023-02-21 14:12:43 +0000"
@@ -2042,6 +2048,7 @@
       "spider_eye": "2023-03-06 20:23:07 +0000",
       "bread": "2023-02-20 09:26:30 +0000",
       "rotten_flesh": "2023-02-17 20:58:01 +0000",
+      "cookie": "2023-03-20 22:19:39 +0000",
       "melon_slice": "2023-03-09 09:24:33 +0000",
       "carrot": "2023-03-10 13:05:31 +0000"
     },
