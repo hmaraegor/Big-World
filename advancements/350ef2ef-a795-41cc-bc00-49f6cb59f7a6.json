@@ -721,6 +721,7 @@
       "minecraft:magma_cube": "2023-02-21 22:58:22 +0000",
       "minecraft:spider": "2023-02-20 10:58:06 +0000",
       "minecraft:creeper": "2023-02-20 12:02:51 +0000",
+      "minecraft:slime": "2023-03-19 21:12:47 +0000",
       "minecraft:phantom": "2023-03-14 12:33:09 +0000",
       "minecraft:witch": "2023-02-23 01:07:57 +0000",
       "minecraft:wither_skeleton": "2023-02-21 22:52:11 +0000",
@@ -1012,6 +1013,12 @@
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2023-02-17 22:52:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2023-03-19 21:15:12 +0000"
     },
     "done": true
   },
@@ -1372,6 +1379,12 @@
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2023-02-20 12:52:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2023-03-19 21:15:12 +0000"
     },
     "done": true
   },
@@ -2981,6 +2994,12 @@
   "minecraft:recipes/redstone/acacia_trapdoor": {
     "criteria": {
       "has_planks": "2023-02-17 23:14:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2023-03-19 21:15:12 +0000"
     },
     "done": true
   },
