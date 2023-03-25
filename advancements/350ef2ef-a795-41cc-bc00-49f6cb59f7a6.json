@@ -437,6 +437,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_birch_wood": {
+    "criteria": {
+      "has_log": "2023-03-23 13:35:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs_from_oxidized_copper_stonecutting": {
     "criteria": {
       "has_oxidized_copper": "2023-02-23 11:14:55 +0000"
@@ -1597,6 +1603,12 @@
     },
     "done": true
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2023-03-22 16:28:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2023-02-17 21:06:45 +0000"
@@ -2242,6 +2254,8 @@
       "rotten_flesh": "2023-02-17 20:58:01 +0000",
       "cookie": "2023-03-20 22:19:39 +0000",
       "melon_slice": "2023-03-09 09:24:33 +0000",
+      "golden_carrot": "2023-03-22 15:59:11 +0000",
+      "beetroot": "2023-03-23 11:57:30 +0000",
       "carrot": "2023-03-10 13:05:31 +0000"
     },
     "done": false
@@ -3145,6 +3159,12 @@
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2023-02-17 21:07:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2023-03-22 16:40:19 +0000"
     },
     "done": true
   },
