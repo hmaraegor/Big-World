@@ -2413,6 +2413,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2023-03-30 12:18:30 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2023-02-17 20:56:44 +0000"
@@ -2982,6 +2988,12 @@
   "minecraft:recipes/decorations/red_candle": {
     "criteria": {
       "has_red_dye": "2023-03-01 15:28:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2023-03-30 12:18:09 +0100"
     },
     "done": true
   },
